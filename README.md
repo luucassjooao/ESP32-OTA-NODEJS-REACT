@@ -1,2 +1,6 @@
 # ESP32-OTA-NODEJS-REACT
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 FULL STACK ESP32 OTA UPDATER
